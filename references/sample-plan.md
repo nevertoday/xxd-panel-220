@@ -1,8 +1,7 @@
-# Panel 220 sample plan
+# Sample artwork
 
-The canonical review pair contains two independently generated outputs from two source photos:
+Each Skill includes eight independently generated samples: `sample-01.png` through `sample-04.png` are landscape left-right comparisons (16:9 target); `sample-05.png` through `sample-08.png` are portrait top-bottom comparisons (3:4). Each canvas has two equal regions.
 
-- `sample-landscape-16x9.png`: `left-right`, exact `16:9`, source photo left, transformed design right, midpoint at 50%.
-- `sample-portrait-3x4.png`: `top-bottom`, exact `3:4`, source photo above, transformed design below, midpoint at 50%.
+Samples were generated with API 3 using this Skill’s unchanged original prompt and eight source images. Actual output dimensions and hashes are recorded in `samples.json`. All eight outputs were visually reviewed. The endpoint returned quality `low` for the requested `medium`.
 
-These files are intentionally absent until source photos and an image-generation run are authorized. Never copy another Panel’s artwork or label an unprocessed screenshot as a sample.
+When refreshing samples, preserve this four-landscape/four-portrait set, review every output, and update the manifest hashes. Never publish an unprocessed source as generated artwork.

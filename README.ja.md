@@ -1,6 +1,6 @@
 <div align="center">
 
-# XXD Panel 220｜摄影与数码混合媒介拼贴海报
+# XXD Panel 220｜丸みのある素朴な手描きドゥードル
 
 日常の写真を独立したアートポスターへ。被写体の記憶点を残し、素材・構図・余白を組み直します。
 
@@ -10,15 +10,23 @@
 
 ## サンプル展示
 
-計算資源を節約するため、このバッチでは画像モデルを呼び出さず、作例画像も生成していません。原文・リンク・実行スクリプトを検証済みですが、実際の生成品質は未検証です。以下は呼び出し例であり、生成作品ではありません。
+生成済みの作例8枚：前半4枚は横向きの左右比較、後半4枚は縦向きの上下比較です。
 
-[作例の制作と検証](references/sample-workflow.md) · [作例一覧](references/samples.json)
+[Sample manifest](references/samples.json)
+
+![sample-01](assets/examples/sample-01.png) | ![sample-02](assets/examples/sample-02.png)
+
+![sample-03](assets/examples/sample-03.png) | ![sample-04](assets/examples/sample-04.png)
+
+![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png)
+
+![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png)
 
 ## 向いている場面と解決する課題
 
 個人の写真整理、自主出版、展示の習作、ライフスタイルのビジュアルに。平凡な構図、雑然とした背景、小さな被写体も、削減・再配置・切り抜き・尺度の変更によって焦点を作り直せます。単なる写真フィルターではありません。
 
-広大な余白の極小印刷アイランド
+丸みのある素朴な手描きドゥードル
 
 ## 原文プロンプト
 
@@ -34,7 +42,7 @@
 
 ## 完成品の識別ポイント
 
-広大な余白の極小印刷アイランド
+丸みのある素朴な手描きドゥードル
 
 ## 4つの出力モード
 

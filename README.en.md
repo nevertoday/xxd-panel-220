@@ -1,6 +1,6 @@
 <div align="center">
 
-# XXD Panel 220｜摄影与数码混合媒介拼贴海报
+# XXD Panel 220｜Rounded Naïve Doodle Vignette
 
 Redirect an everyday photograph into a standalone art poster, preserving its recognisable core while rethinking material, composition and whitespace.
 
@@ -10,15 +10,23 @@ Redirect an everyday photograph into a standalone art poster, preserving its rec
 
 ## Sample works
 
-This compute-saving batch packages the Skill without calling an image model or generating sample artwork. Source integrity, links and runtime helpers are checked; visual generation quality remains untested. The usage examples below are commands, not generated works.
+Eight generated samples: four landscape comparisons followed by four portrait comparisons.
 
-[Sample workflow](references/sample-workflow.md) · [Sample manifest](references/samples.json)
+[Sample manifest](references/samples.json)
+
+![sample-01](assets/examples/sample-01.png) | ![sample-02](assets/examples/sample-02.png)
+
+![sample-03](assets/examples/sample-03.png) | ![sample-04](assets/examples/sample-04.png)
+
+![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png)
+
+![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png)
 
 ## Best-fit situations and problems solved
 
 For personal photography collections, independent publications, exhibition studies and lifestyle visuals. A weak composition, busy background or small subject becomes a starting point for subtraction, rearrangement, cropping and scale changes—not a reason to apply a filter.
 
-上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色
+Rounded Naïve Doodle Vignette
 
 ## Original prompt
 
@@ -34,7 +42,7 @@ Read the subject and relationships → extract the original brief’s visual lan
 
 ## Recognisable finished traits
 
-上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色
+Rounded Naïve Doodle Vignette
 
 ## Four output modes
 

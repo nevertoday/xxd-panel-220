@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-220
-description: "Create Panel 220 raster artwork: 摄影与数码混合媒介拼贴海报. Use when the user invokes xxd-panel-220 or requests this specific visual language."
+description: "Create Panel 220 raster artwork: Rounded Naïve Doodle Vignette. Use when the user invokes xxd-panel-220 or requests this specific visual language."
 ---
 
 # XXD Panel 220
@@ -10,7 +10,7 @@ Create finished PNG artwork from the current user-supplied photograph or image d
 ## Delivery contract
 
 - One source photograph produces its own isolated outputs. Never combine source photographs or reuse another source's subject, wording, or result.
-- The canonical sample pair has two independent layouts: landscape uses `left-right` at `16:9` with reality on the left and the transformed design on the right; portrait uses `top-bottom` at `3:4` with reality above and the transformed design below. Each split is exactly 50:50. Do not substitute one orientation for the other.
+- The canonical sample set contains eight images: four landscape and four portrait. The two layouts are: landscape uses `left-right` at `16:9` with reality on the left and the transformed design on the right; portrait uses `top-bottom` at `3:4` with reality above and the transformed design below. Each split is exactly 50:50. Do not substitute one orientation for the other.
 - Support `top-bottom`, `left-right`, `design-only`, and `wallpaper-pack`. Comparison modes always have exactly two equal regions: reality above or left, design below or right. Do not add extra outer canvas regions. Source-required internal grids, frames, image containers and sidebars belong entirely inside the designed region and must be preserved.
 - A directory is explicit batch intent. Inventory supported raster files recursively in stable order, report the count, resolve shared settings once, generate each source independently, and account for every success and failure.
 - Resolve mode(s), size(s), text mode, locale, wallpaper relationship, device sizes, and output root before generation. Do not infer a silent ratio or locale.

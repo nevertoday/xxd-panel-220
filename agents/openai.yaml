@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 220"
-  short_description: "上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色"
+  short_description: "Rounded Naïve Doodle Vignette"
   default_prompt: "Use $xxd-panel-220 to transform my photograph following the complete canonical source brief."

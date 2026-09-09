@@ -1,14 +1,7 @@
-# Sample artwork workflow
+# Sample artwork
 
-This package currently has no generated sample artwork. When samples are requested, the canonical pair is exactly two files: `sample-landscape-16x9.png` (left-right, 16:9) and `sample-portrait-3x4.png` (top-bottom, 3:4). Do not use square, portrait-only, or arbitrary-ratio substitutes. Commands in the READMEs are usage examples, not visual evidence. Packaging and documentation checks never call an image model.
+Each Skill includes eight independently generated samples: `sample-01.png` through `sample-04.png` are landscape left-right comparisons (16:9 target); `sample-05.png` through `sample-08.png` are portrait top-bottom comparisons (3:4). Each canvas has two equal regions.
 
-When the user requests sample artwork:
+Samples were generated with API 3 using this Skill’s unchanged original prompt and eight source images. Actual output dimensions and hashes are recorded in `samples.json`. All eight outputs were visually reviewed. The endpoint returned quality `low` for the requested `medium`.
 
-1. Use a user-supplied source photograph and this Panel's complete canonical source. If no source exists, request one; never borrow another Panel's output or invent an unavailable reference image.
-2. Resolve the requested count, mode, dimensions and text settings once. Generate one complete canvas per requested result. Do not generate a default multi-image batch, automatic variants, contact sheets or retries.
-3. Follow SKILL.md. The comparison canvas has exactly two equal regions; source-required grids, boxes, sidebars or frames belong inside the designed region. For design-only and wallpapers the design fills the canvas.
-4. Visually inspect the result for identity, medium, palette, typography, composition and the correct midpoint. Dimension checks alone cannot establish visual acceptance. Clean supported provenance metadata without altering pixels; do not claim this makes the work non-AI.
-5. Only after visual acceptance, store the real output in assets/examples. Record its relative path, SHA-256, width, height, mode, canonical source SHA-256 and visual_review: passed in samples.json. Use status: ready only when every listed image passes. Keep failed results out of the gallery.
-6. Run python3 scripts/check_samples.py. Then update the sample section in all five READMEs to link to the actual files, remove the no-samples statement, and describe the true mode. Keep the advertising templates unchanged. Run the repository README advertising validator before publication.
-
-Do not add nonexistent sample links, confuse a source photo with a generated example, or present another numbered Panel's artwork as this Panel's work. Samples are documentation evidence and never replace the canonical prompt during runtime generation.
+When refreshing samples, preserve this four-landscape/four-portrait set, review every output, and update the manifest hashes. Never publish an unprocessed source as generated artwork.
