@@ -67,6 +67,7 @@ npx skills add https://github.com/nevertoday/xxd-panel-220 --skill xxd-panel-220
 常用调用示例：
 
 ```text
+/xxd-panel-220 photo.jpg --mode left-right --size 16:9 --text prompt --locale zh-CN
 /xxd-panel-220 photo.jpg --mode top-bottom --size 3:4 --text prompt --locale zh-CN
 /xxd-panel-220 photo.jpg --mode left-right --size 16:9 --text prompt --locale en-US
 /xxd-panel-220 photo.jpg --mode design-only --size 9:16 --text none --prefs off

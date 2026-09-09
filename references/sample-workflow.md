@@ -1,6 +1,6 @@
 # Sample artwork workflow
 
-This package currently has no generated sample artwork. Commands in the READMEs are usage examples, not visual evidence. Packaging and documentation checks never call an image model.
+This package currently has no generated sample artwork. When samples are requested, the canonical pair is exactly two files: `sample-landscape-16x9.png` (left-right, 16:9) and `sample-portrait-3x4.png` (top-bottom, 3:4). Do not use square, portrait-only, or arbitrary-ratio substitutes. Commands in the READMEs are usage examples, not visual evidence. Packaging and documentation checks never call an image model.
 
 When the user requests sample artwork:
 
