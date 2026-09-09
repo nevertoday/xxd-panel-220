@@ -14,6 +14,15 @@
 
 [样张制作与验收流程](references/sample-workflow.md) · [样张清单](references/samples.json)
 
+### 样张文件
+
+| sample-01 | sample-02 | sample-03 | sample-04 |
+|---|---|---|---|
+| ![sample-01](assets/examples/sample-01.png) | ![sample-02](assets/examples/sample-02.png) | ![sample-03](assets/examples/sample-03.png) | ![sample-04](assets/examples/sample-04.png) |
+| sample-05 | sample-06 | sample-07 | sample-08 |
+|---|---|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
 ## 适用场景与解决的问题
 
 适合个人摄影整理、独立出版、展览练习和生活方式视觉创作。原图构图普通、背景杂乱或主体偏小，也可以通过删减、重组、裁切和尺度变化重新建立重点，而不是把照片套上滤镜。
