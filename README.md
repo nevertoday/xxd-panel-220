@@ -10,17 +10,17 @@
 
 ## 样张展示
 
-已生成并检查 8 张示例：前 4 张为横版左右对照，后 4 张为竖版上下对照。
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-[Sample manifest](references/samples.json)
-
-![sample-01](assets/examples/sample-01.png) | ![sample-02](assets/examples/sample-02.png)
-
-![sample-03](assets/examples/sample-03.png) | ![sample-04](assets/examples/sample-04.png)
-
-![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png)
-
-![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png)
+| sample-01 | sample-03 | sample-05 | sample-07 |
+| --- | --- | --- | --- |
+| ![sample-01](assets/examples/sample-01.png) | ![sample-02](assets/examples/sample-02.png) |
+| sample-03 | sample-04 |
+| ![sample-03](assets/examples/sample-03.png) | ![sample-04](assets/examples/sample-04.png) |
+| sample-05 | sample-06 |
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07 | sample-08 |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
 
 ## 适用场景与解决的问题
 
