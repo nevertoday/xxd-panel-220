@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 220｜Rounded Naïve Doodle Vignette: reduces a photo's subject to a few recognisable signs — big outline, minimal features, a little texture, small decorative marks — drawn with rounded, loose, slightly shaky outlines like crayon, colour marker or felt pen, with broken and repeated lines, colour only dabbed in places with gaps and overruns (roughly 70% white, 20% line, 10% colour), two to four sweet, brightened colours from the photo such as cream yellow, peach, fresh green and lake blue, a small subject in generous white space and one rounded, naive handwritten line. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-220 or asks for cute naive doodles, crayon or marker sketches from a photo.",
+  "short_description": "圆润稚拙手绘涂鸦小品：把照片画成圆润松散、局部点色的可爱手绘涂鸦",
+  "zh-CN": {
+    "name": "圆润稚拙手绘涂鸦小品",
+    "tagline": "把照片画成一枚圆润松散、只在局部点色的可爱手绘涂鸦。",
+    "look": "照片主体被提炼成几个识别符号：大轮廓、极简的五官或特征、少量纹理和小装饰记号。线条圆润、松散、略带抖动，像蜡笔、彩色马克笔或签字笔画的，可以断续、重复、不完全闭合，内部只用几笔短线暗示毛感或纹理。颜色只在局部点染，有漏白和越线，大约七成留白、两成线条、一成颜色；配色取照片里两到四种讨喜的颜色并提亮，如奶油黄、蜜桃粉、嫩橙、草木绿、湖水蓝。会配一句圆润稚拙的小手写字，像画的一部分。",
+    "traits": ["稚拙涂鸦", "圆润断续线", "局部点染", "七成留白", "手写小字"],
+    "good": [
+      "有可爱特征的主体：一只小狗、一只猫、一个孩子、一盆植物",
+      "简单的小物件或日常瞬间：一杯奶茶、一个背包、一次野餐",
+      "想做头像、表情贴、小卡片或社交配图的照片"
+    ],
+    "poor": [
+      "需要严肃或精确表达的照片：证件照、产品说明图、正式场合合影",
+      "结构复杂的大场景：城市全景、密集街市、机器内部",
+      "想要完整填色、工整矢量线或 3D 卡通形象的需求"
+    ]
+  },
+  "en": {
+    "name": "Rounded Naïve Doodle Vignette",
+    "tagline": "Turns a photo into a cute, rounded, loosely drawn doodle with colour dabbed in only a few places.",
+    "look": "Your subject is boiled down to a few recognisable signs: the big outline, a minimal face or key features, a little texture and some small decorative marks. Lines are rounded, loose and slightly shaky, as if drawn in crayon, colour marker or felt pen, and may break off, double up or stay open, with only a few short strokes inside to hint at fur or texture. Colour is dabbed on in places, with gaps and overruns: roughly seventy percent white, twenty percent line and ten percent colour, using two to four sweet, brightened colours from the photo such as cream yellow, peach, soft orange, leaf green and lake blue. One small rounded, naive handwritten line is included as part of the drawing.",
+    "traits": ["Naive doodle", "Rounded broken lines", "Dabbed colour", "Seventy percent white", "Small handwriting"],
+    "good": [
+      "Subjects with endearing features: a puppy, a cat, a child, a potted plant",
+      "Small objects or everyday moments: a cup of milk tea, a backpack, a picnic",
+      "Photos you want as an avatar, a sticker, a small card or a social media image"
+    ],
+    "poor": [
+      "Photos that must look serious or exact: ID photos, product instruction images, formal group shots",
+      "Complex wide scenes: city panoramas, crowded street markets, the inside of a machine",
+      "Requests for fully filled colour, neat vector lines or a 3D cartoon character"
+    ]
+  },
+  "ja": {
+    "name": "丸みのある素朴な手描きドゥードル",
+    "tagline": "写真を、丸くゆるい線で描き、ところどころだけ色を差したかわいい手描きドゥードルにします。",
+    "look": "主役を、大きな輪郭、最小限の顔や特徴、少しの質感、小さな飾り記号といった、いくつかの目印に絞ります。線は丸く、ゆるく、少し震えていて、クレヨンやカラーマーカー、サインペンで描いたようです。途切れたり、重なったり、閉じきらなかったりしてよく、内側は短い線を数本入れて毛並みや質感を匂わせるだけです。色は部分的に差すだけで、塗り残しやはみ出しがあり、おおよそ余白七割、線二割、色一割。配色は写真から好ましい色を二〜四色選んで明るくしたクリームイエロー、ピーチ、若いオレンジ、草色、湖の青などです。丸く素朴な手書きの一言が、絵の一部のように添えられます。",
+    "traits": ["素朴なドゥードル", "丸く途切れる線", "部分的な差し色", "七割の余白", "小さな手書き文字"],
+    "good": [
+      "かわいい特徴のある主役：子犬、猫、子ども、鉢植え",
+      "シンプルな小物や日常の瞬間：ミルクティー、リュック、ピクニック",
+      "アイコン、スタンプ、小さなカード、SNS用画像にしたい写真"
+    ],
+    "poor": [
+      "真面目さや正確さが必要な写真：証明写真、商品の説明画像、改まった場の集合写真",
+      "構造の複雑な広い場面：街のパノラマ、混み合った市場、機械の内部",
+      "べた塗り、整ったベクター線、3Dキャラクターのような仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "둥글고 소박한 손그림 두들",
+    "tagline": "사진을 둥글고 느슨한 선에 군데군데만 색을 더한 귀여운 손그림 두들로 그립니다.",
+    "look": "주인공을 큰 윤곽, 아주 간단한 얼굴이나 특징, 약간의 질감, 작은 장식 표시 같은 몇 가지 알아볼 수 있는 기호로 줄입니다. 선은 둥글고 느슨하며 살짝 떨려서 크레용, 컬러 마커, 사인펜으로 그린 것 같고, 끊기거나 겹치거나 닫히지 않아도 되며, 안쪽에는 짧은 선 몇 개로 털이나 질감만 암시합니다. 색은 일부에만 칠해 빈틈과 삐져나감이 있고, 대략 여백 7할, 선 2할, 색 1할입니다. 색은 사진에서 호감 가는 색 두세 가지에서 네 가지를 골라 밝게 다듬은 크림 노랑, 복숭아 분홍, 연한 주황, 풀색, 호수 파랑 등입니다. 둥글고 서툰 손글씨 한 줄이 그림의 일부처럼 들어갑니다.",
+    "traits": ["서툰 두들", "둥글고 끊기는 선", "부분 채색", "7할 여백", "작은 손글씨"],
+    "good": [
+      "귀여운 특징이 있는 주인공: 강아지, 고양이, 아이, 화분",
+      "단순한 소품이나 일상 순간: 밀크티 한 잔, 배낭, 피크닉",
+      "프로필 사진, 이모티콘, 작은 카드, SNS 이미지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "진지하거나 정확해야 하는 사진: 증명사진, 제품 설명 이미지, 공식 자리 단체 사진",
+      "구조가 복잡한 넓은 장면: 도시 파노라마, 붐비는 시장, 기계 내부",
+      "꽉 찬 채색, 반듯한 벡터 선, 3D 캐릭터 같은 결과를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رسوم عفوية صغيرة بخطوط مستديرة",
+    "tagline": "يحوّل الصورة إلى رسم عفوي لطيف بخطوط مستديرة حرّة وألوان موضوعة في أماكن قليلة فقط.",
+    "look": "يُختزل العنصر الرئيسي إلى بضع علامات تدل عليه: الحدود الكبيرة، وملامح أو سمات مبسّطة جداً، وقليل من الملمس، وعلامات زخرفية صغيرة. الخطوط مستديرة حرّة ومرتعشة قليلاً كأنها بقلم شمع أو قلم تحديد ملون أو قلم لبّادي، وقد تنقطع أو تتكرر أو تبقى مفتوحة، ولا يوجد في الداخل إلا ضربات قصيرة قليلة توحي بالفرو أو الملمس. يُوضع اللون في أماكن متفرقة مع فجوات وتجاوزات للحدود: نحو سبعين في المئة فراغ، وعشرين خطوط، وعشرة ألوان، من لونين إلى أربعة لطيفة مأخوذة من الصورة ومفتّحة، مثل الأصفر الكريمي والخوخي والبرتقالي الطري والأخضر العشبي وأزرق البحيرة. وترافقه عبارة صغيرة بخط يد مستدير عفوي كأنها جزء من الرسم.",
+    "traits": ["رسم عفوي ساذج", "خطوط مستديرة متقطعة", "تلوين متفرق", "سبعون في المئة فراغ", "خط يد صغير"],
+    "good": [
+      "عناصر لها ملامح محببة: جرو، قطة، طفل، نبتة في أصيص",
+      "أشياء صغيرة أو لحظات يومية بسيطة: كوب شاي بالحليب، حقيبة ظهر، نزهة",
+      "صور تريدها صورة شخصية أو ملصقاً أو بطاقة صغيرة أو صورة لوسائل التواصل"
+    ],
+    "poor": [
+      "صور يجب أن تكون جادة أو دقيقة: صور الهوية، صور تعليمات المنتجات، الصور الجماعية الرسمية",
+      "مشاهد واسعة معقدة البنية: بانوراما مدينة، سوق مزدحم، داخل آلة",
+      "طلب تلوين ممتلئ بالكامل أو خطوط متجهية مرتبة أو شخصية كرتونية ثلاثية الأبعاد"
+    ]
+  }
+}

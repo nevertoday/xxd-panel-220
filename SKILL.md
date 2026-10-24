@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-220
-description: "Create Panel 220 raster artwork: Rounded Naïve Doodle Vignette. Use when the user invokes xxd-panel-220 or requests this specific visual language."
+description: "XXD Panel 220｜Rounded Naïve Doodle Vignette: reduces a photo's subject to a few recognisable signs — big outline, minimal features, a little texture, small decorative marks — drawn with rounded, loose, slightly shaky outlines like crayon, colour marker or felt pen, with broken and repeated lines, colour only dabbed in places with gaps and overruns (roughly 70% white, 20% line, 10% colour), two to four sweet, brightened colours from the photo such as cream yellow, peach, fresh green and lake blue, a small subject in generous white space and one rounded, naive handwritten line. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-220 or asks for cute naive doodles, crayon or marker sketches from a photo."
 ---
 
 # XXD Panel 220

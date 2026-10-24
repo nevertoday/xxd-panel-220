@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 220"
-  short_description: "Rounded Naïve Doodle Vignette"
-  default_prompt: "Use $xxd-panel-220 to transform my photograph following the complete canonical source brief."
+  short_description: "圆润稚拙手绘涂鸦小品：把照片画成圆润松散、局部点色的可爱手绘涂鸦"
+  default_prompt: "Use $xxd-panel-220 to turn my photo into Rounded Naïve Doodle Vignette artwork."
